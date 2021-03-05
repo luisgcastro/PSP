@@ -15,5 +15,8 @@
 	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/javax.mail.jar"/>
 	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/mail-1.4.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/mongo-java-driver-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/commons-codec-20041127.091804.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luisg/OneDrive/Escritorio/Librerías/commons-codec-1.9 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

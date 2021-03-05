@@ -1,6 +1,8 @@
 package encriptacion;
 import java.io.ByteArrayInputStream;
 
+import org.apache.commons.codec.binary.Base64;
+
 import java.io.ByteArrayOutputStream;
 
 import java.io.InputStream;
